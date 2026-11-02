@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/yuanshen.dir/src/main.cpp.o CMakeFiles/yuanshen.dir/src/math_utils.cpp.o -o yuanshen 

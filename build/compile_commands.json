@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/build",
+  "command": "/usr/bin/g++  -I/home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/include -g -std=gnu++17 -o CMakeFiles/yuanshen.dir/src/main.cpp.o -c /home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/src/main.cpp",
+  "file": "/home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/src/main.cpp",
+  "output": "CMakeFiles/yuanshen.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/build",
+  "command": "/usr/bin/g++  -I/home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/include -g -std=gnu++17 -o CMakeFiles/yuanshen.dir/src/math_utils.cpp.o -c /home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/src/math_utils.cpp",
+  "file": "/home/ccz/Documents/Codex/Code/robotics/ch05_target_manager/src/math_utils.cpp",
+  "output": "CMakeFiles/yuanshen.dir/src/math_utils.cpp.o"
+}
+]
